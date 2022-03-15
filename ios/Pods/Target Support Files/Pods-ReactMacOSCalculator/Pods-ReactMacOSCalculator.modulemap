@@ -1,0 +1,6 @@
+module Pods_ReactMacOSCalculator {
+  umbrella header "Pods-ReactMacOSCalculator-umbrella.h"
+
+  export *
+  module * { export * }
+}
